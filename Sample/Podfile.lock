@@ -1,0 +1,16 @@
+PODS:
+  - UIPreviewActivityViewController (1.0.0)
+
+DEPENDENCIES:
+  - UIPreviewActivityViewController (from `../`)
+
+EXTERNAL SOURCES:
+  UIPreviewActivityViewController:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  UIPreviewActivityViewController: a646a18a11d6ca45a4a340a888ffe35263ba1fac
+
+PODFILE CHECKSUM: b85182e351b5b97ae4837ef5c2408913fc9f9f7d
+
+COCOAPODS: 1.5.2
