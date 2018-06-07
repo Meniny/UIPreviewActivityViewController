@@ -51,6 +51,8 @@ v{version}, 2018-06-08
 
 **{name}** is {desc}.
 
+image::./Assets/Preview.gif[Preview.gif]
+
 == 📋 Requirements
 
 [%header]
