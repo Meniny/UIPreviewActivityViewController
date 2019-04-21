@@ -1,5 +1,5 @@
 PODS:
-  - UIPreviewActivityViewController (1.0.0)
+  - UIPreviewActivityViewController (1.1.0)
 
 DEPENDENCIES:
   - UIPreviewActivityViewController (from `../`)
@@ -9,8 +9,8 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  UIPreviewActivityViewController: a646a18a11d6ca45a4a340a888ffe35263ba1fac
+  UIPreviewActivityViewController: 01a7e247aa48de46f9e60246d37354b3ee785ea5
 
-PODFILE CHECKSUM: b85182e351b5b97ae4837ef5c2408913fc9f9f7d
+PODFILE CHECKSUM: fd61cdba0ef95839e5257046a2f42be8f67011bb
 
 COCOAPODS: 1.5.2

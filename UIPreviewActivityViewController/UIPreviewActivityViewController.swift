@@ -92,7 +92,7 @@ public final class UIPreviewActivityViewController: UIActivityViewController {
             } else if let i = item as? UIImage {
                 let u = cache.appendingPathComponent("\(index).png")
                 do {
-                    try UIImagePNGRepresentation(i)?.write(to: u)
+                    try i.pngData()?.write(to: u)
                 } catch {
                     // ...
                 }

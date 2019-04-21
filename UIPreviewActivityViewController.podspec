@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
   s.name        = 'UIPreviewActivityViewController'
   s.module_name = 'UIPreviewActivityViewController'
-  s.version     = '1.0.0'
+  s.version     = '1.1.0'
   s.summary     = 'An UIActivityViewController with preview.'
 
   s.homepage    = 'https://github.com/Meniny/UIPreviewActivityViewController'
@@ -17,6 +17,6 @@ Pod::Spec.new do |s|
   s.requires_arc        = true
   s.source              = { git: 'https://github.com/Meniny/UIPreviewActivityViewController.git', tag: s.version.to_s }
   s.source_files        = 'UIPreviewActivityViewController/**/*.swift'
-  s.pod_target_xcconfig = { 'SWIFT_VERSION' => '4.1' }
-  s.swift_version       = '4.1'
+  s.pod_target_xcconfig = { 'SWIFT_VERSION' => '5' }
+  s.swift_version       = '5'
 end
